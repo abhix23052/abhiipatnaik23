@@ -27,4 +27,5 @@ B.Tech in Computer Science
 
 ### Contact
 LinkedIn: https://www.linkedin.com/in/abhilash-patnaik-44a2143b9/
+<br>
 Email: abhipatnaik23@gmail.com
