@@ -1,72 +1,100 @@
-# Hi, I'm Abhilash Patnaik
+# Hi, I'm Abhilash Patnaik 👋
 
-## Full Stack Developer
+## Full Stack Developer | PHP, JavaScript, MySQL, WordPress
 
-Aspiring Full Stack Developer with experience in PHP, MySQL, JavaScript, WordPress, and database-driven web applications. Passionate about building responsive websites, solving real-world problems, and continuously improving my development skills.
+Computer Science graduate with hands-on experience building web applications, e-commerce websites, and database-driven solutions. Skilled in PHP, JavaScript, MySQL, WordPress, WooCommerce, HTML, and CSS. Interested in developing scalable and user-focused web applications.
 
 ---
 
 ## Tech Stack
 
-- HTML5
-- CSS3
-- JavaScript
-- PHP
-- MySQL
-- WordPress
-- Python
-- Git & GitHub
+### Frontend
+
+* HTML5
+* CSS3
+* JavaScript
+* Bootstrap
+
+### Backend
+
+* PHP
+* Laravel
+* MySQL
+
+### CMS
+
+* WordPress
+* WooCommerce
+
+### Tools
+
+* Git
+* GitHub
+* VS Code
+* XAMPP
+
+### Other
+
+* Python
+* SQL
 
 ---
 
 ## Featured Projects
 
+### Personal Portfolio Website
+
+Responsive portfolio website showcasing projects, technical skills, and professional experience.
+
 ### Student Database Management System
-A MySQL-based DBMS project designed to manage student records efficiently using SQL queries, CRUD operations, and relational database concepts.
+
+MySQL-based database management system implementing CRUD operations, relational database design, and efficient student record management.
 
 ### Contact Book Application
-A Python-based contact management system that allows users to create, update, search, and delete contacts using CRUD operations.
+
+Python application for managing contacts with add, update, search, and delete functionality.
 
 ### Flappy Bird Game
-A Java-based Flappy Bird clone featuring obstacle generation, collision detection, score tracking, and interactive gameplay.
+
+Java-based game featuring collision detection, score tracking, and interactive gameplay mechanics.
 
 ---
 
 ## Education
 
-**Bachelor of Technology (B.Tech)**  
-Computer Science & Engineering
+**Bachelor of Science (B.Sc.) – Computer Science**
+E-Tech Residential Degree College
 
 ---
 
 ## Currently Learning
 
-- React.js
-- Node.js
-- REST APIs
-- Data Structures & Algorithms
-- Full Stack Web Development
+* React.js
+* Node.js
+* REST APIs
+* Data Structures & Algorithms
+* Modern Full Stack Development
 
 ---
 
 ## Career Objective
 
-Seeking opportunities as a Full Stack Developer where I can contribute to real-world projects, strengthen my technical expertise, and grow as a software engineer.
+Seeking opportunities as a Full Stack Developer where I can contribute to real-world projects, build scalable applications, and continue expanding my technical expertise.
 
 ---
 
 ## Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/abhilash-patnaik-44a2143b9/
-- GitHub: https://github.com/abhix23052/
-- Email: abhipatnaik23@gmail.com
+* LinkedIn: [www.linkedin.com/in/abhilash-patnaik-44a2143b9](http://www.linkedin.com/in/abhilash-patnaik-44a2143b9)
+* GitHub: github.com/abhix23052
+* Email: [abhipatnaik23@gmail.com](mailto:abhipatnaik23@gmail.com)
 
 ---
 
-## Technical Interests
+## Areas of Interest
 
-- Web Development
-- Database Design
-- Backend Development
-- Full Stack Applications
-- Open Source Learning
+* Full Stack Development
+* Web Development
+* Database Design
+* Backend Development
+* Open Source Learning
